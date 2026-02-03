@@ -24,3 +24,6 @@ Repository Contents:
 Dataset: The primary CSV file containing product names, prices, and ratings.
 Dashboard Image: A high-resolution capture of the interactive Looker Studio interface.
 README: Project documentation and insights summary.
+
+Live Interactive Dashboard:
+[https://lookerstudio.google.com/reporting/1454909f-d575-4ae5-8d07-f73ce4751549/page/OhFnF/edit]
